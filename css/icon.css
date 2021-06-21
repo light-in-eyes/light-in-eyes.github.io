@@ -7,20 +7,21 @@
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 20px;
+  font-size: 40px;
   font-style: normal;
+  color: red;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-juejin:before {
   content: "\e600";
+  font-size: 40px;
+  color: red;
 }
 
 .icon-qq:before {
   content: "\e602";
-}
-
-.icon-qq:before {
-  color: #red;
+  font-size: 40px;
+  color: red;
 }
